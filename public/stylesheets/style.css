@@ -1,0 +1,8 @@
+
+/**
+Si no se agrega minimo el tamaño del mapa no se mostrara nada
+*/
+#map { 
+  height: 500px;
+  width: 1000px;
+}
